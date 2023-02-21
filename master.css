@@ -1,0 +1,72 @@
+h2 {
+    color: rgb(211, 39, 39);
+}
+
+.d-block {
+    margin-top: -60px;
+    right: 500px;
+    border-radius: 10px;
+    box-shadow: 0 20px 20px -20px #333;
+}
+
+.w-75 {
+
+    border-radius: 10px;
+    box-shadow: 0 20px 20px -20px #333;
+
+}
+
+.hr-shelf {
+    position: absolute;
+	margin: -30px auto 10px;
+	padding: 0;
+	height: 10px;
+    right: - 600px;
+	border: none;
+    margin-top: 10px;
+	border-bottom: 2px solid rgb(211, 39, 39);
+	box-shadow: 0 20px 20px -20px #333;
+	width: 20%;
+}
+
+.button2{
+    position: absolute;
+    right:200px ;
+    width: ;
+    height:40px ;
+    color: rgb(255, 255, 255);
+    background-color: rgb(26, 115, 167);
+    border:none;
+    border-radius: 5px;
+    margin-top: 180px;
+}
+
+
+
+.mb-3check {
+    position: absolute;
+right: 170px;
+}
+
+.checklabel {
+    position: absolute;
+    right: 200px;
+}
+
+.modal-body {
+
+    height: 350px;
+}
+
+.sil {
+    position: absolute;
+    margin-top: 220px;
+    right: 185px;
+}
+
+.bt3{
+
+    position: absolute;
+    right: 350px;
+    margin-top:-80px ;
+}
